@@ -1,4 +1,4 @@
-# VBA-functions-to-price-options-with-BSM
+#put function
 
 Option Explicit
 
