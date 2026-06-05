@@ -1,7 +1,7 @@
 Option Explicit
 
 
-#put function
+'put function
 
 Public Function BSM_put(s As Double, k As Double, r As Double, t As Double, vol As Double) As Variant
 
@@ -23,7 +23,7 @@ End Function
 
 
 
-#call function
+'call function
 
 
 Public Function BSM_call(s As Double, k As Double, r As Double, t As Double, vol As Double) As Variant
